@@ -3,10 +3,12 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Olá, meu nome é Victor.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+Sou engenheiro agrônomo, e atualmente mestrando no programa de pós-graduação de Ciências Florestais da Universidade de Brasília (UnB).
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+Sou orientado pelo professor Dr. Lucas Mazzei (Embrapa Amazônia Oriental), e coorientado pelos professores Dr. Carlos Alberto Silva (UF), e Dr. Eraldo Matricardi (UnB).
+
+Essa página é destinada para compartilhar conhecimento de diversos assuntos relacionados a Sensoriamento Remoto, Manejo Florestal, e Estatística. Além disso, é um local para centralizar o conhecimento adquirido ao decorrer dessa caminhada. Seja muito bem-vindo(a), saudações.
