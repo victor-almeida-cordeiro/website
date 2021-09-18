@@ -1,11 +1,11 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
+action_label: Continuar para conteúdos &rarr;
+action_link: /project
 action_type: text
 description: Olá, meu nome é Victor. Sou Engenheiro Agrônomo pela Universidade Federal de São João del-Rei (UFSJ), e atualmente mestrando em Ciências Florestais pela Universidade de Brasília (UnB)
 image_left: true
 images:
-- img/revoir.jpg
+- img/angelim.png
 show_action_link: true
 show_social_links: true
 subtitle: Bem vindo à minha página pessoal.
