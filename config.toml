@@ -100,7 +100,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "lattes" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "/blog/index.xml"
+      url       = "http://lattes.cnpq.br/6965173042642276"
 
 [taxonomies]
   category = "categories"
