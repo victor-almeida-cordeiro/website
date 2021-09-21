@@ -1,5 +1,5 @@
 ---
-author: The R Markdown Team @RStudio
+author: MSc. Victor A. Cordeiro
 cascade:
   show_author_byline: true
   show_comments: false
