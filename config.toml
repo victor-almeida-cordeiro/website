@@ -1,4 +1,4 @@
-baseURL = "https://victor-almeida-cordeiro.netlify.app/"
+baseURL = "https://vcordeiro.com/"
 theme = "hugo-apero"
 languageCode = "pt"
 title = "Victor"
